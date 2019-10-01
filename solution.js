@@ -28,7 +28,7 @@ let submitListener = (event) => {
   newComment.textContent = text;
   decideOnColor(newComment);
   let now = new Date();
-  time.textContent = now.getHours() + ":" + now.getMinutes() + ":" + now.getSeconds();
+  time.textContent = username + " / " + now.getHours() + ":" + now.getMinutes() + ":" + now.getSeconds();
 
   newComment.appendChild(time);
   comments.appendChild(newComment);
