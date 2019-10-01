@@ -31,27 +31,27 @@ comment {
 }
 
 .pink {
-  background-color: #ad1457;
+  background-color: #ad1457 !important;
 }
 
 .green {
-  background-color: #2e7d32;
+  background-color: #2e7d32 !important;
 }
 
 .blue {
-  background-color: #283593;
+  background-color: #283593 !important;
 }
 
 .red {
-  background-color: #c62828;
+  background-color: #c62828 !important;
 }
 
 .orange {
-  background-color: #f57c00;
+  background-color: #f57c00 !important;
 }
 
 .black {
-  background-color: #000000;
+  background-color: #000000 !important;
 }
 
 textarea {
